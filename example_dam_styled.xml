@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<assets>
+  <asset>
+    <name>Whey Isolate Vanille</name>
+    <url>https://example.com/images/whey_vanille.jpg</url>
+    <link>http://localhost:8000/shop.html</link>
+    <cta>Zum Shop</cta>
+  </asset>
+</assets>
