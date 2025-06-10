@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<assets>
+  <asset>
+    <name>Produktbild Proteinpulver</name>
+    <path>/assets/images/protein1.jpg</path>
+    <description>Frontansicht der 1kg Dose Proteinpulver.</description>
+    <category>Produktbilder</category>
+  </asset>
+  <asset>
+    <name>Banderole Vegan</name>
+    <path>/assets/banderolen/vegan_label.svg</path>
+    <description>Label für vegane Produktlinie.</description>
+    <category>Labels</category>
+  </asset>
+</assets>
