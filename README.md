@@ -18,6 +18,11 @@
   Rolle:
   Faktisch Projektleitung – inklusive Schulung, Koordination, Wissenstransfer
 
+# Warum IT-Projektmanager?<br/>
+
+Ich habe beim 1st Level angefangen und arbeite aktuell im 3rd Level Bereich, dazu habe ich Major Incidents behandelt<br/>
+während meiner Senior Incident Manager Position, ich denke diese Position erlaubt mir etwas zu bewegen wenn es Schwachstellen im Prozess gibt.
+
 # Sprachen<br/>
   Deutsch & Englisch:<br/>
   Beide auf C1-Niveau (Nachweis: Berlitz Sprachinstitut, 2018, Aufstufung von B2 auf C1)<br/>
