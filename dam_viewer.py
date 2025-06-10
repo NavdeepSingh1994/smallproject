@@ -4,7 +4,24 @@ import streamlit.components.v1 as components
 import pandas as pd
 
 st.set_page_config(page_title="📦 DAM Viewer", page_icon="🗂")
-st.title("📦 Digital Asset Management – XML Viewer")
+st.title("Digital Asset Management – XML Viewer mit kleinem Onlineshop - Bewerbungsgespräch IT-Projektmanager 10.06.2025")
+
+# Aktuelle Uhrzeit
+st.markdown("## 🕒 Aktuelle Uhrzeit")
+
+clock_html = """
+<div id="clock" style="font-size:24px;font-weight:bold;margin-bottom:30px;color:#00c4ff"></div>
+<script>
+function updateClock() {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    document.getElementById('clock').innerText = timeStr;
+}
+setInterval(updateClock, 1000);
+updateClock();
+</script>
+"""
+components.html(clock_html)
 
 st.markdown("""
 Diese Demo zeigt, wie XML-Daten aus einem Digital Asset Management (DAM) System verarbeitet und dargestellt werden können. Zwei Modi:

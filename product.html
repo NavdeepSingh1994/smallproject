@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Produktdetails</title>
+</head>
+<body>
+  <h1 id="prod-title">Produkt</h1>
+  <p id="prod-desc">Beschreibung</p>
+  <a href="shop.html">🔙 Zurück</a>
+
+  <script>
+    const products = {
+      whey: {
+        name: "Whey Isolate Vanille",
+        description: "Hochwertiges Whey Isolate mit Vanille-Geschmack – 59,99 €"
+      },
+      vegan: {
+        name: "Vegan Protein Kakao",
+        description: "Pflanzliches Protein mit Kakaogeschmack – 59,99 €"
+      },
+      casein: {
+        name: "Casein Protein Erdbeere",
+        description: "Langsam verdauliches Protein mit Erdbeergeschmack – 59,99 €"
+      },
+      shaker: {
+        name: "Shaker Schwarz",
+        description: "Robuster 600ml Shaker in Schwarz – 59,99 €"
+      },
+      starter: {
+        name: "SmartFit Starterpaket",
+        description: "Whey + Shaker + Ernährungsplan – 59,99 €"
+      }
+    };
+
+    const params = new URLSearchParams(window.location.search);
+    const prodKey = params.get('name');
+
+    if (products[prodKey]) {
+      document.getElementById("prod-title").innerText = products[prodKey].name;
+      document.getElementById("prod-desc").innerText = products[prodKey].description;
+    } else {
+      document.getElementById("prod-title").innerText = "Produkt nicht gefunden";
+      document.getElementById("prod-desc").innerText = "";
+    }
+  </script>
+</body>
+</html>
