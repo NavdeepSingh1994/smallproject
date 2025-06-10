@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <assets>
+  <!-- Kategorie: Produktbilder -->
   <asset>
     <name>Produktbild Proteinpulver</name>
     <path>/assets/images/protein1.jpg</path>
@@ -7,9 +8,69 @@
     <category>Produktbilder</category>
   </asset>
   <asset>
+    <name>Produktbild Shaker</name>
+    <path>/assets/images/shaker_black.jpg</path>
+    <description>Produktfoto des schwarzen Shakers, 700ml.</description>
+    <category>Produktbilder</category>
+  </asset>
+  <asset>
+    <name>Produktbild Energybar</name>
+    <path>/assets/images/energybar_choco.jpg</path>
+    <description>Detailansicht der Verpackung Choco-Crunch Bar.</description>
+    <category>Produktbilder</category>
+  </asset>
+
+  <!-- Kategorie: Labels -->
+  <asset>
     <name>Banderole Vegan</name>
     <path>/assets/banderolen/vegan_label.svg</path>
     <description>Label für vegane Produktlinie.</description>
     <category>Labels</category>
+  </asset>
+  <asset>
+    <name>Label Zuckerfrei</name>
+    <path>/assets/banderolen/sugarfree_badge.svg</path>
+    <description>Grafik für zuckerfreie Produkte.</description>
+    <category>Labels</category>
+  </asset>
+
+  <!-- Kategorie: Marketing-Assets -->
+  <asset>
+    <name>Social-Media Banner Frühjahr</name>
+    <path>/assets/marketing/banner_spring2025.jpg</path>
+    <description>Marketingbanner für Instagram und Facebook (Frühjahrskampagne).</description>
+    <category>Marketing</category>
+  </asset>
+
+  <!-- Kategorie: Dokumente -->
+  <asset>
+    <name>Produktdatenblatt Proteinpulver</name>
+    <path>/assets/docs/proteinpowder_datasheet.pdf</path>
+    <description>Detaillierte Produktinformationen als PDF.</description>
+    <category>Dokumente</category>
+  </asset>
+
+  <!-- Kategorie: Video -->
+  <asset>
+    <name>Promo Video 2025</name>
+    <path>/assets/videos/promo_2025.mp4</path>
+    <description>Werbevideo mit Sprecher und Animationen.</description>
+    <category>Video</category>
+  </asset>
+
+  <!-- Kategorie: Workflows -->
+  <asset>
+    <name>Freigabeprozess Banderolen</name>
+    <path>/assets/workflows/label_review.workflow</path>
+    <description>Workflow-Datei zur Freigabe von Verpackungsdesigns.</description>
+    <category>Workflows</category>
+  </asset>
+
+  <!-- Kategorie: Templates -->
+  <asset>
+    <name>PowerPoint-Vorlage Produktlaunch</name>
+    <path>/assets/templates/product_launch_2025.pptx</path>
+    <description>Präsentationsvorlage für neue Produkteinführungen.</description>
+    <category>Templates</category>
   </asset>
 </assets>
