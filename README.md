@@ -1,7 +1,7 @@
-# Abschluss Bachelorstudium
-  Offene Bachelorprüfung: 30.06.–04.07.2025
-  Abschluss: B.Sc. in Computer Science and Digital Communication
-  Spezialisierung: Künstliche Intelligenz
+# Abschluss Bachelorstudium<br/>
+  Offene Bachelorprüfung: 30.06.–04.07.2025<br/>
+  Abschluss: B.Sc. in Computer Science and Digital Communication<br/>
+  Spezialisierung: Künstliche Intelligenz<br/>
 
 # Geplante Zertifizierung
   PMA Level D (Projektmanagement Austria): Prüfung am 17.06.2025
