@@ -12,7 +12,7 @@
   Projektzeitraum: 01.03.2020 – 30.06.2020<br/>
   Aufgabe:<br/>
   Training von 3 indischen Kollegen via Webex auf der SaaS-Plattform „Allianz Business System (ABS)<br/>
-    → Fokus: Incident Management
+    → Fokus: Incident Management<br/>
   Erfolg:<br/>
   Das Team besteht bis heute und wurde als 2nd-Level-Team etabliert
   Rolle:
