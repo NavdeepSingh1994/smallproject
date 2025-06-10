@@ -15,7 +15,7 @@
     → Fokus: Incident Management
   Erfolg:<br/>
   Das Team besteht bis heute und wurde als 2nd-Level-Team etabliert
-  Rolle:<br/>
+  Rolle:
   Faktisch Projektleitung – inklusive Schulung, Koordination, Wissenstransfer
 
 # Sprachen<br/>
