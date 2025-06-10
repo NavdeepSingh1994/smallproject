@@ -22,6 +22,11 @@
   Deutsch & Englisch:<br/>
   Beide auf C1-Niveau (Nachweis: Berlitz Sprachinstitut, 2018, Aufstufung von B2 auf C1)<br/>
   
+# Persönliche Weiterentwicklung<br/>
+
+  Master in AI ab 2028 auf der FH Technikum Wien, Donnerstag und Freitag am Abend vor Ort<br/>
+  PMA Level C Zertifikat ab 2028<br/>
+  
 # Private Interessen<br/>
   Sprachlich:<br/>
   Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
@@ -29,7 +34,4 @@
   Kampfsport:<br/>
   Ab Juli 2025: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
 
-# Persönliche Weiterentwicklung<br/>
-
-  Master in AI ab 2028 auf der FH Technikum Wien, Donnerstag und Freitag am Abend vor Ort<br/>
-  PMA Level C Zertifikat ab 2028<br/>
+  3x die Woche zum Kraftsport und jeden Tag 10000 Schritte
