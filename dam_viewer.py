@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 import pandas as pd
 
 st.set_page_config(page_title="📦 DAM Viewer", page_icon="🗂")
-st.title("Digital Asset Management – XML Viewer mit kleinem Onlineshop - Bewerbungsgespräch IT-Projektmanager 10.06.2025")
+st.title("Digital Asset Management – XML Viewer mit kleinem Onlineshop (WIP) - Bewerbungsgespräch IT-Projektmanager 10.06.2025")
 
 # Aktuelle Uhrzeit
 st.markdown("## 🕒 Aktuelle Uhrzeit")
