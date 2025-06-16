@@ -141,3 +141,10 @@ if st.button("🔎 Mit GPT suchen") and xml_ki_input and query:
 
         except Exception as e:
             st.error(f"Fehler bei der GPT-Abfrage: {e}")
+st.markdown("---")
+st.markdown("🔗 [Zur interaktiven Bewerbungsdemo mit JavaScript & Fragen](http://localhost:8501/streamlit_main)")
+
+st.markdown(
+    "<small style='color:gray'>Hinweis: Diese Verlinkung demonstriert Webtechnologie-Kenntnisse mit Streamlit, HTML, CSS & JS.</small>",
+    unsafe_allow_html=True
+)
