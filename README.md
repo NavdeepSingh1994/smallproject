@@ -12,11 +12,16 @@
   Projektzeitraum: 01.03.2020 – 30.06.2020<br/>
   Aufgabe:<br/>
   Training von 3 indischen Kollegen via Webex auf der SaaS-Plattform „Allianz Business System (ABS)<br/>
-    → Fokus: Incident Management
+    → Fokus: Incident Management<br/>
   Erfolg:<br/>
   Das Team besteht bis heute und wurde als 2nd-Level-Team etabliert
   Rolle:
   Faktisch Projektleitung – inklusive Schulung, Koordination, Wissenstransfer
+
+# Warum IT-Projektmanager?<br/>
+
+Ich habe beim 1st Level angefangen und arbeite aktuell im 3rd Level Bereich, dazu habe ich Major Incidents behandelt<br/>
+während meiner Senior Incident Manager Position, ich denke diese Position erlaubt mir etwas zu bewegen wenn es Schwachstellen im Prozess gibt.
 
 # Sprachen<br/>
   Deutsch & Englisch:<br/>
