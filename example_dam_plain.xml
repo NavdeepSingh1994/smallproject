@@ -2,75 +2,105 @@
 <assets>
   <!-- Kategorie: Produktbilder -->
   <asset>
-    <name>Produktbild Proteinpulver</name>
-    <path>/assets/images/protein1.jpg</path>
-    <description>Frontansicht der 1kg Dose Proteinpulver.</description>
+    <name>Produktbild Creatin</name>
+    <path>/assets/images/creatin_dose.jpg</path>
+    <description>Weiße Dose mit Creatin-Monohydrat, 500g.</description>
     <category>Produktbilder</category>
   </asset>
   <asset>
-    <name>Produktbild Shaker</name>
-    <path>/assets/images/shaker_black.jpg</path>
-    <description>Produktfoto des schwarzen Shakers, 700ml.</description>
+    <name>Produktbild Vitamin D3</name>
+    <path>/assets/images/vitamin_d3.jpg</path>
+    <description>Flasche mit 1000 IE Vitamin D3 Tropfen.</description>
     <category>Produktbilder</category>
   </asset>
   <asset>
-    <name>Produktbild Energybar</name>
-    <path>/assets/images/energybar_choco.jpg</path>
-    <description>Detailansicht der Verpackung Choco-Crunch Bar.</description>
+    <name>Produktbild Omega-3</name>
+    <path>/assets/images/omega3_capsules.jpg</path>
+    <description>Packung mit Omega-3 Fischölkapseln.</description>
     <category>Produktbilder</category>
   </asset>
 
   <!-- Kategorie: Labels -->
   <asset>
-    <name>Banderole Vegan</name>
-    <path>/assets/banderolen/vegan_label.svg</path>
-    <description>Label für vegane Produktlinie.</description>
+    <name>Label Bio-zertifiziert</name>
+    <path>/assets/banderolen/bio_label.svg</path>
+    <description>Bio-Zertifizierungslabel nach EU-Richtlinien.</description>
     <category>Labels</category>
   </asset>
   <asset>
-    <name>Label Zuckerfrei</name>
-    <path>/assets/banderolen/sugarfree_badge.svg</path>
-    <description>Grafik für zuckerfreie Produkte.</description>
+    <name>Label Glutenfrei</name>
+    <path>/assets/banderolen/glutenfree_badge.svg</path>
+    <description>Glutenfrei-Siegel für Allergiker geeignet.</description>
     <category>Labels</category>
   </asset>
 
-  <!-- Kategorie: Marketing-Assets -->
+  <!-- Kategorie: Marketing -->
   <asset>
-    <name>Social-Media Banner Frühjahr</name>
-    <path>/assets/marketing/banner_spring2025.jpg</path>
-    <description>Marketingbanner für Instagram und Facebook (Frühjahrskampagne).</description>
+    <name>Herbstkampagne Facebook</name>
+    <path>/assets/marketing/banner_fall2025.jpg</path>
+    <description>Social-Media-Banner für die Herbstkampagne.</description>
+    <category>Marketing</category>
+  </asset>
+  <asset>
+    <name>Newsletter-Banner Januar</name>
+    <path>/assets/marketing/newsletter_jan2025.jpg</path>
+    <description>Header für den Newsletter im Januar 2025.</description>
     <category>Marketing</category>
   </asset>
 
   <!-- Kategorie: Dokumente -->
   <asset>
-    <name>Produktdatenblatt Proteinpulver</name>
-    <path>/assets/docs/proteinpowder_datasheet.pdf</path>
-    <description>Detaillierte Produktinformationen als PDF.</description>
+    <name>Sicherheitsdatenblatt Omega-3</name>
+    <path>/assets/docs/sdb_omega3.pdf</path>
+    <description>Gefahrstoffrelevante Angaben für Omega-3 Kapseln.</description>
+    <category>Dokumente</category>
+  </asset>
+  <asset>
+    <name>Vertriebskonzept D-A-CH</name>
+    <path>/assets/docs/sales_strategy_dach2025.pdf</path>
+    <description>Strategiepapier für den Vertrieb im deutschsprachigen Raum.</description>
     <category>Dokumente</category>
   </asset>
 
   <!-- Kategorie: Video -->
   <asset>
-    <name>Promo Video 2025</name>
-    <path>/assets/videos/promo_2025.mp4</path>
-    <description>Werbevideo mit Sprecher und Animationen.</description>
+    <name>Produktvideo Vitamin D3</name>
+    <path>/assets/videos/vitamin_d3_intro.mp4</path>
+    <description>Kurze Einführung zum Nutzen von Vitamin D3.</description>
+    <category>Video</category>
+  </asset>
+  <asset>
+    <name>Behind-the-Scenes Kampagnenvideo</name>
+    <path>/assets/videos/bts_fall_campaign.mp4</path>
+    <description>Einblicke in die Produktion der Herbstkampagne.</description>
     <category>Video</category>
   </asset>
 
   <!-- Kategorie: Workflows -->
   <asset>
-    <name>Freigabeprozess Banderolen</name>
-    <path>/assets/workflows/label_review.workflow</path>
-    <description>Workflow-Datei zur Freigabe von Verpackungsdesigns.</description>
+    <name>Freigabeprozess Marketing</name>
+    <path>/assets/workflows/marketing_approval.workflow</path>
+    <description>Genehmigungsprozess für Marketingmaterialien.</description>
+    <category>Workflows</category>
+  </asset>
+  <asset>
+    <name>Onboarding Workflow</name>
+    <path>/assets/workflows/onboarding_newemployee.workflow</path>
+    <description>Workflow zur Einarbeitung neuer Teammitglieder.</description>
     <category>Workflows</category>
   </asset>
 
   <!-- Kategorie: Templates -->
   <asset>
-    <name>PowerPoint-Vorlage Produktlaunch</name>
-    <path>/assets/templates/product_launch_2025.pptx</path>
-    <description>Präsentationsvorlage für neue Produkteinführungen.</description>
+    <name>Excel-Template Kampagnenplanung</name>
+    <path>/assets/templates/campaign_plan_template.xlsx</path>
+    <description>Vorlage zur strukturierten Kampagnenplanung.</description>
+    <category>Templates</category>
+  </asset>
+  <asset>
+    <name>InDesign-Vorlage Produktkatalog</name>
+    <path>/assets/templates/catalog_2025.indd</path>
+    <description>Template für Produktkatalog in Adobe InDesign.</description>
     <category>Templates</category>
   </asset>
 </assets>
