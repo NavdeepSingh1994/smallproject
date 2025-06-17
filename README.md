@@ -4,9 +4,9 @@
   Spezialisierung: Künstliche Intelligenz<br/>
 
 # Geplante Zertifizierung<br/>
-  PMA Level D (Projektmanagement Austria): Prüfung am 17.06.2025<br/>
+  PMA Level D (Projektmanagement Austria): Prüfung am 17.06.2025 - done - Warte auf das Egebnis<br/>
   Scrum Master PSM I: Prüfung am 24.06.2025<br/>
-  Ing.-Titel: Antragstellung läuft, voraussichtlicher Abschluss ebenfalls bis Juli 2025<br/>
+  Ing.-Titel: Antragstellung durch, warte auf einen Termin voraussichtlicher Abschluss ebenfalls bis Juli 2025<br/>
   
 # Projekterfahrung als Projektverantwortlicher / Consultant<br/>
   Projektzeitraum: 01.03.2020 – 30.06.2020<br/>
@@ -35,7 +35,7 @@ während meiner Senior Incident Manager Position, ich denke diese Position erlau
 # Private Interessen<br/>
   Sprachlich:<br/>
   Kroatisch lernen für familiäre Integration (Ehefrau ist Kroatin)<br/>
-
+  Super Smash Bros Ultimate - wieder an Turnieren teilnehmen<br/>
   Kampfsport:<br/>
   Ab Juli 2025: Wiedereinstieg in Krav Maga, Ziel: Schwarzer Gurt / Level 5<br/>
 
